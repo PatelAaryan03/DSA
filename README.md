@@ -7,6 +7,7 @@ DSA repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PatelAaryan03/DSA/tree/master/0001-two-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/PatelAaryan03/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -16,4 +17,12 @@ DSA repo
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PatelAaryan03/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
