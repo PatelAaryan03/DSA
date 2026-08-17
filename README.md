@@ -7,6 +7,7 @@ DSA repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PatelAaryan03/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0724-find-pivot-index](https://github.com/PatelAaryan03/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/PatelAaryan03/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,4 +45,12 @@ DSA repo
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PatelAaryan03/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
