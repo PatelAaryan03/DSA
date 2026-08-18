@@ -13,6 +13,7 @@ DSA repo
 | [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PatelAaryan03/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PatelAaryan03/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/PatelAaryan03/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/PatelAaryan03/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/PatelAaryan03/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
@@ -53,4 +54,8 @@ DSA repo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/PatelAaryan03/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
