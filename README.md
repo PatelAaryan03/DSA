@@ -9,6 +9,7 @@ DSA repo
 | [0001-two-sum](https://github.com/PatelAaryan03/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PatelAaryan03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/PatelAaryan03/DSA/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/PatelAaryan03/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/PatelAaryan03/DSA/tree/master/0905-sort-array-by-parity) |
@@ -66,4 +67,5 @@ DSA repo
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PatelAaryan03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
