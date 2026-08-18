@@ -8,6 +8,7 @@ DSA repo
 | ------- |
 | [0001-two-sum](https://github.com/PatelAaryan03/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
 | [0414-third-maximum-number](https://github.com/PatelAaryan03/DSA/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/PatelAaryan03/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/PatelAaryan03/DSA/tree/master/0905-sort-array-by-parity) |
@@ -56,8 +57,13 @@ DSA repo
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/PatelAaryan03/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
