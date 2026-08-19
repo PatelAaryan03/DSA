@@ -8,6 +8,7 @@ DSA repo
 | ------- |
 | [0001-two-sum](https://github.com/PatelAaryan03/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/PatelAaryan03/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PatelAaryan03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/PatelAaryan03/DSA/tree/master/0414-third-maximum-number) |
@@ -33,6 +34,7 @@ DSA repo
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PatelAaryan03/DSA/tree/master/0011-container-with-most-water) |
 | [0905-sort-array-by-parity](https://github.com/PatelAaryan03/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -68,4 +70,8 @@ DSA repo
 | ------- |
 | [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PatelAaryan03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/PatelAaryan03/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
