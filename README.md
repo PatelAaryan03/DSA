@@ -10,6 +10,7 @@ DSA repo
 | [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PatelAaryan03/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/PatelAaryan03/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PatelAaryan03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/PatelAaryan03/DSA/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/PatelAaryan03/DSA/tree/master/0724-find-pivot-index) |
@@ -35,11 +36,13 @@ DSA repo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PatelAaryan03/DSA/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/PatelAaryan03/DSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/PatelAaryan03/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PatelAaryan03/DSA/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/PatelAaryan03/DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/PatelAaryan03/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PatelAaryan03/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,4 +77,12 @@ DSA repo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PatelAaryan03/DSA/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PatelAaryan03/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PatelAaryan03/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
