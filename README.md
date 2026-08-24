@@ -10,6 +10,7 @@ DSA repo
 | [0004-median-of-two-sorted-arrays](https://github.com/PatelAaryan03/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PatelAaryan03/DSA/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/PatelAaryan03/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/PatelAaryan03/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PatelAaryan03/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PatelAaryan03/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0414-third-maximum-number](https://github.com/PatelAaryan03/DSA/tree/master/0414-third-maximum-number) |
@@ -50,6 +51,7 @@ DSA repo
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PatelAaryan03/DSA/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PatelAaryan03/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Counting Sort
 |  |
